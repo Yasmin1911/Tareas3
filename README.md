@@ -3,7 +3,7 @@ Repositorio de la actividad 3
 var mes = prompt("¿Qué mes del año es?") 
 
 if(mes==12){
-  alert("es invierno")
+ alert("es invierno")
 }else if(mes==1){
   alert("es invierno")
 }else if(mes==2){
